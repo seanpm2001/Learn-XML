@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+	<body>
+		<filetree>
+			<image1>JPEG</image1>
+			<image2>PNG</image2>
+			<image3>GIF</image3>
+		</filetree>
+	</body>
+</xml>
