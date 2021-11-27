@@ -5,12 +5,12 @@
 # .gitattributes
 # and nothing else, no characters before, no characters after
 # Start of linguist script
-# HTML (Duplicate, as it is already detected by GitHub Linguist by default)
-*.htm linguist-detectable=true
-*.htm linguist-documentation=false
-*.html linguist-detectable=true
-*.html linguist-documentation=false
-# Do not include, as it would become a dominant language that shouldn't be the language people refer this project to
+# XML
+*.xml linguist-detectable=true
+*.xml linguist-documentation=false
+*.rdf linguist-detectable=true
+*.rdf linguist-documentation=false
+# YAML
 *.yml linguist-detectable=false
 *.yml linguist-documentation=false
 *.yaml linguist-detectable=false
@@ -25,7 +25,7 @@
 *.mk linguist-documentation=false
 # End of linguist script
 # File info
-# File type: .gitattributes file
-# File version: 1 (Monday, 2021 August 23rd at 4:17 pm)
+# File type: gitattributes file (.gitattributes)
+# File version: 2 (Friday, 2021 November 26th at 4:51 pm)
 # Line count (including blank lines and compiler line): 32
 # End of script
